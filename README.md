@@ -1,1 +1,1 @@
-# 给予SpringBoot的Redis缓存注解, 及设置缓存过期时间, 自动刷新缓存注解
+# 基于SpringBoot的Redis缓存注解, 及设置缓存过期时间, 自动刷新缓存注解
